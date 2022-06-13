@@ -1,2 +1,2 @@
 # Simple-LinkTree
-Solusi buat bikin linktree sendiri
+[`Follow my Instagram`](https://instagram.com/Muhammdsatritama)
